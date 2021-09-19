@@ -8,6 +8,7 @@
 **•	Conceptual Background of the Domain Problem**
 
 Due to the pandemic situation all around, every sector is going through an unpredictable situation and the used car sellers are also not an exception of it. In this situation, sellers couldn’t determine what the customer want. The unpredictable increase and decrease of demand of different cars had created a confusion in valuation. 
+
 **•	Review of Literature**
 
 There are numerous times when seller couldn’t predict the price and due to that customer get dissatisfied. Customers always try to find things at low value and high benefit. So, it is quite obvious, that they would try to get a good conditioned used vehicle at reasonable rate. It is the seller, who must understand the need of the customer and satisfy them with their wants. Hence, if the seller can determine the market demand and can play their card properly, then definitely they will get benefited. 
@@ -73,6 +74,7 @@ Mean Absolute Error
 
 
 **CONCLUSION **
+
 **•	Key Findings and Conclusions of the Study**
 
 Most of the used cars on the market for resale are from Maruti and its models. The top 3 models for resale are Swift, Alto and WagonR. Most of the vehicles runs on petrol than any other fuel. The vehicles are mostly driven below 400000km.
